@@ -3,6 +3,12 @@
 ## Assignment
 **DS605: Fundamentals of Machine Learning — Lab Assignment 6**
 
+# Student Details
+
+## StudentName: Vedant Kapur
+## Student Id: 202618061
+
+
 The assignment uses:
 - Asphalt Crack Dataset — 400 images
 - Email Spam Classification Dataset — 5,172 emails
@@ -10,12 +16,6 @@ The assignment uses:
 The required workflow is:
 
 `Raw Image/Text -> Preprocessing -> Feature Extraction / Vectorization -> Train-Test Split -> ML Model -> Evaluation -> Representation Improvement`
---------------------------------------------
-StudentName: Vedant Kapur
-
-Student Id: 202618061
----------------------------------------------
-
 
 ## Repository structure
 
