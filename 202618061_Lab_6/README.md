@@ -10,8 +10,12 @@ The assignment uses:
 The required workflow is:
 
 `Raw Image/Text -> Preprocessing -> Feature Extraction / Vectorization -> Train-Test Split -> ML Model -> Evaluation -> Representation Improvement`
+--------------------------------------------
+StudentName: Vedant Kapur
 
-No CNNs, deep-learning models, or pretrained image embeddings are used for the image task.
+Student Id: 202618061
+---------------------------------------------
+
 
 ## Repository structure
 
