@@ -1,0 +1,2 @@
+Approach,Features,Accuracy,Precision,Recall,F1,Training Time (s),Prediction Time (s)
+Improved image representation,7,0.8625,0.8717948717948718,0.85,0.8607594936708861,0.00443859999995766,0.0003772999998545856
