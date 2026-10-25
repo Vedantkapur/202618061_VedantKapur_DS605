@@ -1,0 +1,4 @@
+kernel,test_accuracy
+Linear,0.8971428571428571
+Polynomial (degree 3),0.8857142857142857
+RBF,0.9371428571428572
